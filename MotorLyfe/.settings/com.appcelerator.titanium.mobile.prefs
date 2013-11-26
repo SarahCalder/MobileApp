@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=MotorLyfe
+android/abi=x86
+android/distribute_path=C\:\\Users\\Sarah\\Desktop
+android/keystore_alias=sarah
+android/keystore_password=sarahc
+android/keystore_path=C\:\\Users\\Sarah\\Desktop\\motorlyfe key
+android/recent_output=C\:\\Users\\Sarah\\Desktop
+android/sdk_version=Android 2.3.3
+eclipse.preferences.version=1
